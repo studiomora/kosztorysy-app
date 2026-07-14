@@ -1,0 +1,2 @@
+Постав сюди logo.png (лого Brodacze z Lasu), якщо хочеш, щоб воно з'являлося в шапці PDF.
+Після додавання файлу онови COMPANY.logoPath у src/lib/pdf/EstimateDocument.tsx на "/logo.png".
